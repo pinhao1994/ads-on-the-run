@@ -46,4 +46,4 @@ pip-delete-this-directory.txt
 .DS_Store
 .DS_STORE
 
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
