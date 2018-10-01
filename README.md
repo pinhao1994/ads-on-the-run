@@ -9,7 +9,7 @@ https://communityprofiles.planning.nyc.gov/manhattan/9
 * 2018 Participation Report (Tangyao Zhao)
 http://www.physicalactivitycouncil.com/pdfs/current.pdf
 
-* Sports and Exercise 
+* Sports and Exercise (Xiaohan Yi)
 https://www.bls.gov/spotlight/2017/sports-and-exercise/pdf/sports-and-exercise.pdf
 
 * 2017 Food & Health Survey
@@ -44,4 +44,4 @@ git push origin [mybranch]
 2. Zhaoxi Zheng
 3. Aakanksha Joshi
 4. Tangyao Zhao (zhao.tangyao@columbia.edu)
-5. Xiaohan Chen
+5. Xiaohan Yi
