@@ -12,7 +12,7 @@ http://www.physicalactivitycouncil.com/pdfs/current.pdf
 * Sports and Exercise (Xiaohan Yi)
 https://www.bls.gov/spotlight/2017/sports-and-exercise/pdf/sports-and-exercise.pdf
 
-* 2017 Food & Health Survey
+* 2017 Food & Health Survey (Pin-Hao Chen)
 https://www.foodinsight.org/sites/default/files/2017%20Food%20and%20Health%20Survey%20-%20Final%20Report.pdf
 
 * FoodAPS National Household Food Acquisition and Purchase Survey
