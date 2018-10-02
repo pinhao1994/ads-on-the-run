@@ -3,7 +3,7 @@
 
 ## Notes
 
-* NYC Community District Profiles: 
+* NYC Community District Profiles (Aakanksha Joshi) 
 https://communityprofiles.planning.nyc.gov/manhattan/9
 
 * 2018 Participation Report (Tangyao Zhao)
@@ -42,6 +42,6 @@ git push origin [mybranch]
 ## Authors
 1. Pin-Hao Bill Chen (<pinhao1994@gmail.com>)
 2. Zhaoxi Zheng
-3. Aakanksha Joshi
+3. Aakanksha Joshi (<aakanksha.joshi@columbia.edu>
 4. Tangyao Zhao (zhao.tangyao@columbia.edu)
 5. Xiaohan Yi
