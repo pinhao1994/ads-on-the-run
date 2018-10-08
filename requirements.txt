@@ -4,7 +4,7 @@ backcall==0.1.0
 certifi==2018.8.24
 chardet==3.0.4
 decorator==4.3.0
-Django==2.1.1
+Django==2.1.2
 gmplot==1.2.0
 idna==2.7
 ipykernel==4.9.0
