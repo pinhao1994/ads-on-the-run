@@ -1,6 +1,11 @@
 # Snergic Partners: Ads on Run
 ### Columbia University DSI Capstone 2018 
 
+## Reports
+
+1. https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit
+
+
 ## Notes
 
 * NYC Community District Profiles (Aakanksha Joshi) 
