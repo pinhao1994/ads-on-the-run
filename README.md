@@ -6,24 +6,28 @@
 1. https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit
 
 
-## Notes
+## Reference
 
-* NYC Community District Profiles (Aakanksha Joshi) 
-https://communityprofiles.planning.nyc.gov/manhattan/9
+* NYC Open Sources
 
-* 2018 Participation Report (Tangyao Zhao)
-http://www.physicalactivitycouncil.com/pdfs/current.pdf
+  * [NYC Community District Profiles](https://communityprofiles.planning.nyc.gov/manhattan/9) (Aakanksha Joshi)
 
-* Sports and Exercise (Xiaohan Yi)
-https://www.bls.gov/spotlight/2017/sports-and-exercise/pdf/sports-and-exercise.pdf
+* Literature Review
 
-* 2017 Food & Health Survey (Pin-Hao Chen)
-https://www.foodinsight.org/sites/default/files/2017%20Food%20and%20Health%20Survey%20-%20Final%20Report.pdf
+  * [2018 Participation Report](http://www.physicalactivitycouncil.com/pdfs/current.pdf) (Tangyao Zhao)
 
-* FoodAPS National Household Food Acquisition and Purchase Survey
-https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey/
+  * [Sports and Exercise](https://www.bls.gov/spotlight/2017/sports-and-exercise/pdf/sports-and-exercise.pdf) (Xiaohan Yi)
 
+  * [2017 Food & Health Survey](https://www.foodinsight.org/sites/default/files/2017%20Food%20and%20Health%20Survey%20-%20Final%20Report.pdf) (Pin-Hao Chen)
 
+  * [FoodAPS National Household Food Acquisition and Purchase Survey](https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey/)
+
+* APIs
+
+  * [Strava API v3](https://developers.strava.com/docs/reference/)
+  
+  * [OpenStreetMap](https://www.openstreetmap.org/) w/ [Overpass](https://janakiev.com/blog/openstreetmap-with-python-and-overpass-api/)
+  
 ## Git Cheat Sheet
 
 ```commandline
