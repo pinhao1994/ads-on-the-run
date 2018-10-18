@@ -3,7 +3,7 @@
 
 ## Reports
 
-1. https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit
+1. https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit?usp=sharing
 
 
 ## Reference
@@ -50,7 +50,7 @@ git push origin [mybranch]
 
 ## Authors
 1. Pin-Hao Bill Chen (<pinhao1994@gmail.com>)
-2. Zhaoxi Zheng
-3. Aakanksha Joshi (<aakanksha.joshi@columbia.edu>
-4. Tangyao Zhao (zhao.tangyao@columbia.edu)
-5. Xiaohan Yi
+2. Zhaoxi Zheng (<zz2497@columbia.edu>)
+3. Aakanksha Joshi (<aakanksha.joshi@columbia.edu>)
+4. Tangyao Zhao (<zhao.tangyao@columbia.edu>)
+5. Xiaohan Yi (<xy2340@columbia.edu>)
