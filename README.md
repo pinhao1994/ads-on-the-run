@@ -1,4 +1,4 @@
-# Snergic Partners: Ads on Run
+# Snergic Partners: Ads On The Run
 ### Columbia University DSI Capstone 2018 
 
 ## Reports
