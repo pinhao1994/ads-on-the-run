@@ -9,7 +9,7 @@
 
 ## Concept Slides
 
-![Concept Slides](https://docs.google.com/presentation/d/16Plog4XxApIbdCya2mBA5O5r7YkY5vOAtpD0QLzFHqs/edit?usp=sharing)
+![Concept Slides](https://github.com/pinhao1994/ads-on-the-run/blob/develop/Concept%20Slides.png)
 
 
 ## Reference
