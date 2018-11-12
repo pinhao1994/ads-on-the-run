@@ -3,10 +3,13 @@
 
 ## Reports
 
-1. [Progress Report 1](https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit?usp=sharing): Background & Problem Definition | Data Collection, Wrangling & Preprocessing | Exploratory Data Analysis
-2. [Progress Report 2](https://docs.google.com/document/d/1zhau8EWIRP5Ltfcd3sMd7r9XNK6NNR63p73U1fE_TGA/edit?usp=sharing): Protoypes of Algo. & Models | Data Visualization & Reporting | Productionizing Machine Learning Models
+1. [Progress Report 1](https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit?usp=sharing): Background and Problem Definition | Data Collection, Wrangling and Preprocessing | Exploratory Data Analysis
+2. [Progress Report 2](https://docs.google.com/document/d/1zhau8EWIRP5Ltfcd3sMd7r9XNK6NNR63p73U1fE_TGA/edit?usp=sharing): Protoypes of Algo. and Models | Data Visualization and Reporting | Productionizing Machine Learning Models
 3. Ads On The Run - Final Report
-4. [Concept Slides](https://docs.google.com/presentation/d/16Plog4XxApIbdCya2mBA5O5r7YkY5vOAtpD0QLzFHqs/edit?usp=sharing)
+
+## Concept Slides
+
+![Concept Slides](https://docs.google.com/presentation/d/16Plog4XxApIbdCya2mBA5O5r7YkY5vOAtpD0QLzFHqs/edit?usp=sharing)
 
 
 ## Reference
