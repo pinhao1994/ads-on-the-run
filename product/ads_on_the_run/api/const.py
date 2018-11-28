@@ -19,4 +19,5 @@ AMENITY = {
     4: 'clinic',
 }
 
-ERROR = "Wrong API Format"
+ERROR = 'Wrong API Format'
+
