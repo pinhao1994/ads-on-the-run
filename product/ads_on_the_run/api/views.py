@@ -32,6 +32,9 @@ def same_cluster(request, zip_code):
 
 
 def find_segment_kiosk(request, zip_code):
+    # todo: cluster + segements + kiosk
+    # todo levenshtein algo, geopanda to calculate the distance
+    # todo find the top-k best kiosk location, return me a list of (long, lat)
     return HttpResponse("long lat of the kiosk")
 
 
