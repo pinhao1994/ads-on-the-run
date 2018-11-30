@@ -6,6 +6,7 @@
 1. [Progress Report 1](https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit?usp=sharing): Background and Problem Definition | Data Collection, Wrangling and Preprocessing | Exploratory Data Analysis
 2. [Progress Report 2](https://docs.google.com/document/d/1zhau8EWIRP5Ltfcd3sMd7r9XNK6NNR63p73U1fE_TGA/edit?usp=sharing): Protoypes of Algo. and Models | Data Visualization and Reporting | Productionizing Machine Learning Models
 3. Ads On The Run - Final Report
+4. [Poster](https://docs.google.com/presentation/d/1Y_oSLect0zs52aNMhCcOtqaeEs_hrCcV2xGy5HGkrts/edit?usp=sharing)
 
 ## Concept Slides
 
