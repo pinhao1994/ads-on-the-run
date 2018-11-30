@@ -51,6 +51,32 @@
 </div>
 <div class="section" id="module-api.views.filter_zip_code">
 <span id="filter"></span><h2><a class="toc-backref" href="#id3">filter</a><a class="headerlink" href="#module-api.views.filter_zip_code" title="Permalink to this headline">¶</a></h2>
+<dl class="function">
+<dt id="api.views.filter_zip_code.index">
+<code class="descclassname">api.views.filter_zip_code.</code><code class="descname">index</code><span class="sig-paren">(</span><em>request</em>, <em>age_range</em>, <em>income</em>, <em>amenity</em><span class="sig-paren">)</span><a class="headerlink" href="#api.views.filter_zip_code.index" title="Permalink to this definition">¶</a></dt>
+<dd><p><code class="docutils literal notranslate"><span class="pre">GET</span> <span class="pre">http://&lt;domain&gt;/filter/&lt;age_range&gt;/&lt;income&gt;/&lt;amenity&gt;</span></code></p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">Parameters:</th><td class="field-body"><ul class="first simple">
+<li><strong>request</strong> (<em>requests</em>) – HTTP GET Request</li>
+<li><strong>age_range</strong> (<em>int</em>) – age range</li>
+<li><strong>income</strong> (<em>int</em>) – income level</li>
+<li><strong>amenity</strong> (<em>int</em>) – amenity type</li>
+</ul>
+</td>
+</tr>
+<tr class="field-even field"><th class="field-name">Returns:</th><td class="field-body"><p class="first">list of ranked zip codes</p>
+</td>
+</tr>
+<tr class="field-odd field"><th class="field-name">Return type:</th><td class="field-body"><p class="first last">list[str]</p>
+</td>
+</tr>
+</tbody>
+</table>
+</dd></dl>
+
 </div>
 <div class="section" id="module-api.views.kiosk_zip_code">
 <span id="kiosk"></span><h2><a class="toc-backref" href="#id4">kiosk</a><a class="headerlink" href="#module-api.views.kiosk_zip_code" title="Permalink to this headline">¶</a></h2>

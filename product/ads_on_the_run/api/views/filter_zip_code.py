@@ -7,11 +7,23 @@ from django.http import HttpResponse
 
 
 def index(request, age_range, income, amenity):
+    """``GET http://<domain>/filter/<age_range>/<income>/<amenity>``
+
+    :param request: HTTP GET Request
+    :type request: requests
+    :param age_range: age range
+    :type age_range: int
+    :param income: income level
+    :type income: int
+    :param amenity: amenity type
+    :type amenity: int
+    :return: list of ranked zip codes
+    :rtype: list[str]
+    """
     if age_range not in AGE_RANGE.keys() or income not in INCOME_LEVEL.keys() \
             or amenity not in AMENITY.keys():
         return HttpResponse(ERROR)
 
-    # todo: top-k zip code
     top5_cands = filter_zip_code(AGE_RANGE[age_range], INCOME_LEVEL[income], AMENITY[amenity], top_n=5)
     return HttpResponse(json.dumps({"input": [AGE_RANGE[age_range], INCOME_LEVEL[income], AMENITY[amenity]],
                                     "val": top5_cands}))
