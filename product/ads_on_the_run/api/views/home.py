@@ -5,6 +5,13 @@ from django.http import HttpResponse
 
 
 def index(request):
+    """ ``GET http://<domain>/api/``
+
+    :param request: HTTP GET Request
+    :type request: requests
+    :return: dictionary of selection
+    :rtype: dict[dict]
+    """
     data = {
         "title": "This is Ads On The Run API!",
         "selections": {

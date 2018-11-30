@@ -7,7 +7,7 @@ from django.http import HttpResponse
 
 
 def index(request, zip_code):
-    """ ``GET http://<domain>/sports/<zip_code>``
+    """ ``GET http://<domain>/api/sports/<zip_code>``
 
     :param request: HTTP GET Request
     :type request: requests

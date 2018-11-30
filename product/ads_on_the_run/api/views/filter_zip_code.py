@@ -7,7 +7,7 @@ from django.http import HttpResponse
 
 
 def index(request, age_range, income, amenity):
-    """``GET http://<domain>/filter/<age_range>/<income>/<amenity>``
+    """``GET http://<domain>/api/filter/<age_range>/<income>/<amenity>``
 
     :param request: HTTP GET Request
     :type request: requests
