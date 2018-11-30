@@ -1,3 +1,4 @@
+
 AGE_RANGE = {
     0: 'age0_18',
     1: 'age19_35',
@@ -20,4 +21,5 @@ AMENITY = {
 }
 
 ERROR = 'Wrong API Format'
+MODELS_PATH = "./api/models"
 
