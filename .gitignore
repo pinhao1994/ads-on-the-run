@@ -47,3 +47,5 @@ pip-delete-this-directory.txt
 .DS_STORE
 
 */.ipynb_checkpoints/*
+
+db.sqlite3
