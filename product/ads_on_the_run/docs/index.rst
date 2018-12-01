@@ -7,15 +7,23 @@
 Ads On The Run
 ==============
 
+
+Concepts
+--------
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :hidden:
 
    APIs <modules/views.rst>
 
+.. image:: concept_slides.png
+   :alt: concept slide
 
 Author
-======
+------
+
 * Pin-Hao Bill Chen (pinhao1994@gmail.com)
 
 * Zhaoxi Zheng (zz2497@columbia.edu)
