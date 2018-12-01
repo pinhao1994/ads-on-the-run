@@ -98,6 +98,7 @@ html_theme_options = {
     'github_repo': 'pinhao1994/ads-on-the-run',
     'github_banner': True,
     'github_button': True,
+    'extra_nav_links': {'Map Visualization': 'https://pinhao1994.github.io/AdsOnTheRun/map.html'}
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
