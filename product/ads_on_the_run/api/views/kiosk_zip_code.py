@@ -10,6 +10,9 @@ from django.http import HttpResponse
 def index(request, zip_code):
     """ ``GET http://<domain>/api/kiosk/<zip_code>``
 
+    Given a zip code, find other similar zip codes within the same k-means clusters. For these zip codes, rank kiosks based on their distances from
+    Strava segments. Return this ranked list of kiosks as suitable locations for advertisements.
+
     :param request: HTTP GET Request
     :type request: requests
     :param zip_code: zip code

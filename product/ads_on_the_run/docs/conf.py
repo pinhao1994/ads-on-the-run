@@ -25,8 +25,8 @@ django.setup()
 # -- Project information -----------------------------------------------------
 
 project = 'Ads On The Run'
-copyright = '2018, Pin-Hao Bill Chen'
-author = 'Pin-Hao Bill Chen'
+copyright = '2018, Synergic Partners'
+author = 'Synergic Partners'
 
 # The short X.Y version
 version = ''
@@ -139,7 +139,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ads_on_the_run.tex', 'ads\\_on\\_the\\_run Documentation',
-     'Pin-Hao Bill Chen', 'manual'),
+     'Synergic Partners', 'manual'),
 ]
 
 

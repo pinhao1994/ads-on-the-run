@@ -3,8 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
 Ads On The Run Documentation!
-==========================================
+=============================
 
 .. toctree::
    :maxdepth: 2
@@ -13,10 +14,15 @@ Ads On The Run Documentation!
    APIs <modules/views.rst>
 
 
+Author
+======
+* Pin-Hao Bill Chen (pinhao1994@gmail.com)
 
-Indices and tables
-==================
+* Zhaoxi Zheng (zz2497@columbia.edu)
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* Aakanksha Joshi (aakanksha.joshi@columbia.edu)
+
+* Tangyao Zhao (zhao.tangyao@columbia.edu)
+
+* Xiaohan Yi (xy2340@columbia.edu)
+

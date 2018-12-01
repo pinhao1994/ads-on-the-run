@@ -7,6 +7,8 @@ from django.http import HttpResponse
 def index(request):
     """ ``GET http://<domain>/api/``
 
+    List all the selection options for frontend design.
+
     :param request: HTTP GET Request
     :type request: requests
     :return: dictionary of selection

@@ -10,6 +10,8 @@ from django.http import HttpResponse
 def index(request, age_range, income, amenity):
     """``GET http://<domain>/api/filter/<age_range>/<income>/<amenity>``
 
+    Given a client's age and income preferences and their product (amenity), we return a list of suitable zip codes.
+
     :param request: HTTP GET Request
     :type request: requests
     :param age_range: age range
