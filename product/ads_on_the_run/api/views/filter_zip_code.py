@@ -3,6 +3,7 @@ import pandas as pd
 import os
 
 from api.const import AGE_RANGE, INCOME_LEVEL, AMENITY, ERROR, MODELS_PATH
+from api.kiosk import rank_kiosk
 from django.http import HttpResponse
 
 
@@ -25,8 +26,13 @@ def index(request, age_range, income, amenity):
         return HttpResponse(ERROR)
 
     top5_cands = filter_zip_code(AGE_RANGE[age_range], INCOME_LEVEL[income], AMENITY[amenity], top_n=5)
+    kiosks = list()
+    for zc in top5_cands:
+        kiosks.extend(rank_kiosk(zc)[:3])
+
     return HttpResponse(json.dumps({"input": [AGE_RANGE[age_range], INCOME_LEVEL[income], AMENITY[amenity]],
-                                    "val": top5_cands}))
+                                    "top5_zip_code": top5_cands,
+                                    "kiosk_lat_lon": kiosks}))
 
 
 def filter_zip_code(age, wealth, product, top_n):
