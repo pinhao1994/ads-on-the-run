@@ -7,7 +7,9 @@ from django.http import HttpResponse
 
 
 def index(request, zip_code):
-    """ ``GET http://<domain>/sports/<zip_code>``
+    """ ``GET http://<domain>/api/sports/<zip_code>``
+
+    For a particular zip code and a client product line, give the client a list of their products ranked by their suitability for that zip code.
 
     :param request: HTTP GET Request
     :type request: requests

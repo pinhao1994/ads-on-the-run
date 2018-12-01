@@ -25,8 +25,9 @@ django.setup()
 # -- Project information -----------------------------------------------------
 
 project = 'Ads On The Run'
-copyright = '2018, Pin-Hao Bill Chen'
-author = 'Pin-Hao Bill Chen'
+html_logo = './logo.png'
+copyright = '2018, Synergic Partners'
+author = 'Synergic Partners'
 
 # The short X.Y version
 version = ''
@@ -90,7 +91,14 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+    'logo_text_align': 'center',
+    'sidebar_collapse': False,
+    'sidebar_width': '28%',
+    'github_repo': 'pinhao1994/ads-on-the-run',
+    'github_banner': True,
+    'github_button': True,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -105,7 +113,7 @@ html_static_path = ['_static']
 # default: ``['localtoc.html', 'relations.html', 'sourcelink.html',
 # 'searchbox.html']``.
 #
-# html_sidebars = {}
+# html_sidebars = {'**': ['globaltoc.html', 'relations.html', 'sourcelink.html', 'searchbox.html']}
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
@@ -139,7 +147,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'ads_on_the_run.tex', 'ads\\_on\\_the\\_run Documentation',
-     'Pin-Hao Bill Chen', 'manual'),
+     'Synergic Partners', 'manual'),
 ]
 
 
@@ -171,3 +179,5 @@ texinfo_documents = [
 
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = True
+
+
