@@ -4,8 +4,8 @@
    contain the root `toctree` directive.
 
 
-Ads On The Run Documentation!
-=============================
+Ads On The Run
+==============
 
 .. toctree::
    :maxdepth: 2

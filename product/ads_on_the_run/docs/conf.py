@@ -24,7 +24,8 @@ django.setup()
 
 # -- Project information -----------------------------------------------------
 
-project = 'Ads On The Run'
+project = ''
+html_logo = './logo.png'
 copyright = '2018, Synergic Partners'
 author = 'Synergic Partners'
 
