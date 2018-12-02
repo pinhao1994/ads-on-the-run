@@ -3,13 +3,15 @@
 
 ## Reports
 
+<img align="right" src="https://github.com/pinhao1994/ads-on-the-run/blob/master/QRcode.png">
+
 1. [Progress Report 1](https://docs.google.com/document/d/1tcxzrGXDol1ji_8g2Mk8OTiS-tELHCMASouV0xYrzEk/edit?usp=sharing): Background and Problem Definition | Data Collection, Wrangling and Preprocessing | Exploratory Data Analysis
 2. [Progress Report 2](https://docs.google.com/document/d/1zhau8EWIRP5Ltfcd3sMd7r9XNK6NNR63p73U1fE_TGA/edit?usp=sharing): Protoypes of Algo. and Models | Data Visualization and Reporting | Productionizing Machine Learning Models
 3. Ads On The Run - Final Report
 4. [Poster - Columbia University 2018 Capstone](https://docs.google.com/presentation/d/1Y_oSLect0zs52aNMhCcOtqaeEs_hrCcV2xGy5HGkrts/edit?usp=sharing)
 5. [Online Documentattion](https://pinhao1994.github.io/AdsOnTheRun)
 
-<img align="left" width="100" height="100" src="https://github.com/pinhao1994/ads-on-the-run/blob/master/QRcode.png">
+
 
 ![QRCode](https://github.com/pinhao1994/ads-on-the-run/blob/master/QRcode.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
