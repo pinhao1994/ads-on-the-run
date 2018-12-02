@@ -9,7 +9,7 @@
 4. [Poster - Columbia University 2018 Capstone](https://docs.google.com/presentation/d/1Y_oSLect0zs52aNMhCcOtqaeEs_hrCcV2xGy5HGkrts/edit?usp=sharing)
 5. [Online Documentattion](https://pinhao1994.github.io/AdsOnTheRun)
 
-![QRCode](https://github.com/pinhao1994/ads-on-the-run/blob/master/QRcode.png)
+![QRCode](https://github.com/pinhao1994/ads-on-the-run/blob/master/QRcode.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 ## Concept Slides
 
