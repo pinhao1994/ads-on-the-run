@@ -15,6 +15,9 @@
 
 ![Concept Slides](https://github.com/pinhao1994/ads-on-the-run/blob/master/Concept%20Slides.png)
 
+## API Design
+
+![API Design](https://github.com/pinhao1994/ads-on-the-run/blob/master/api_workflow.jpg)
 
 ## Reference
 
