@@ -13,7 +13,7 @@ click-plugins==1.0.4
 cligj==0.5.0
 cycler==0.10.0
 decorator==4.3.0
-Django==2.1.1
+Django==2.2.10
 docutils==0.14
 Fiona==1.8.2
 gast==0.2.0
