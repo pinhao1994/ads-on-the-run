@@ -69,7 +69,7 @@ Sphinx==1.8.2
 sphinxcontrib-websupport==1.1.0
 stravalib==0.9.4
 tensorboard==1.12.0
-tensorflow==1.12.0
+tensorflow==2.7.2
 termcolor==1.1.0
 tornado==5.1.1
 traitlets==4.3.2
